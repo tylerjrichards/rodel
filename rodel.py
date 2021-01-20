@@ -4,7 +4,7 @@ from PIL import Image
  
 
 # Create an Image object from an Image
-
+st.button('Click to make me keep spinning!')
 colorImage  = Image.open("rodel.png")
 imageLocation = st.empty()
  
